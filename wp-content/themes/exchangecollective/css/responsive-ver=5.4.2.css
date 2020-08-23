@@ -1,0 +1,295 @@
+@media (max-width: 1250px){
+    .container, .vc_active .container, #main,
+    #main .home-carousel .slick-slide .vc_col-sm-12{
+        max-width: 90%;
+        width: 90%;
+    }
+}
+
+@media (max-width: 1170px){
+    h1{
+        font-size: 50px;
+    }
+    h2{
+        font-size: 40px;
+    }
+    h3{
+        font-size: 30px;
+    }
+    h4{
+        font-size: 24px;
+    }
+    h5{
+        font-size: 18px;
+    }
+    h6{
+        font-size: 13px;
+    }
+    #main h1.vc_custom_heading{
+        font-size: 85px;
+    }
+    #main h2.vc_custom_heading{
+        font-size: 75px;
+    }
+    #main h3.vc_custom_heading{
+        font-size: 60px;
+    }
+    #main h4.vc_custom_heading{
+        font-size: 45px;
+    }
+    #main h5.vc_custom_heading{
+        font-size: 30px;
+    }
+    #main h6.vc_custom_heading{
+        font-size: 20px;
+    }
+    #main .vc_btn3{
+        font-size: 25px;
+        max-width: 410px;
+    }
+    #main .home-partners-title h2{
+    	font-size: 65px;
+    }
+    #main .home-banner h1.vc_custom_heading, #main .home-banner h2.vc_custom_heading{
+        font-size: 65px;
+    }
+    #main .carousel-logos .wpb_image_grid_ul{
+        padding-left: 60px;
+        padding-right: 60px;
+    }
+    #main .carousel-logos .slick-prev,
+    #main .carousel-logos .slick-next{
+        width: 45px;
+        height: 45px;
+        top: calc((100% - 45px)/2);
+    }
+    #main .home-carousel .slick-slider .slick-prev,
+    #main .home-carousel .slick-slider .slick-next{
+    	width: 40px;
+        height: 40px;
+    }
+    #main .home-carousel .slick-slider .slick-prev{
+    	left: 10px;
+   	}
+    #main .home-carousel .slick-slider .slick-next{
+    	right: 10px;
+    }
+    #main .home-carousel .slick-slide .vc_col-sm-12 > .vc_column-inner > .wpb_wrapper{
+    	border: 7px solid #52a13c;
+        max-width: 400px;
+        margin-bottom: 75px;
+    }
+    #main .home-carousel .slick-slide .vc_col-sm-12 > .vc_column-inner > .wpb_wrapper .wpb_single_image{
+    	max-width: 80px;
+    }
+    #main .home-carousel .slick-slide .vc_col-sm-12 > .vc_column-inner > .wpb_wrapper h3 {
+    	font-size: 27px;
+    }
+    #main .home-carousel .slick-slide .vc_col-sm-12 > .vc_column-inner > .wpb_wrapper p {
+        font-size: 15px;
+    }
+}
+
+
+@media (max-width: 1024px) {
+    #topbanner-inner{
+        padding: 70px 0;
+    }
+    #topbanner-inner h1,
+    #topbanner-inner h2{
+        font-size: 40px;
+    }
+    #main .home-banner h1.vc_custom_heading, #main .home-banner h2.vc_custom_heading{
+        font-size: 50px;
+        padding-left: 22px;
+    }
+    #main .home-banner h1.vc_custom_heading:before, #main .home-banner h2.vc_custom_heading:before{
+        top: 10px;
+        width: 10px;
+    }
+    #main .vc_btn3 {
+        font-size: 22px;
+        max-width: 365px;
+    }
+    #main h1.vc_custom_heading{
+        font-size: 70px;
+    }
+    #main h2.vc_custom_heading{
+        font-size: 65px;
+    }
+    #main h3.vc_custom_heading{
+        font-size: 50px;
+    }
+    #main h4.vc_custom_heading{
+        font-size: 35px;
+    }
+    #main h5.vc_custom_heading{
+        font-size: 27px;
+    }
+    #main h6.vc_custom_heading{
+        font-size: 20px;
+    }
+    #main .home-partners-title h2{
+    	font-size: 55px;
+    }
+    #footer{
+        padding: 40px 0;
+    }
+    #footer-logo {
+        float: none;
+        width: auto;
+        padding-bottom: 30px;
+        text-align: center;
+    }
+    #footer-socials {
+        float: none;
+        width: auto;
+        padding-top: 15px;
+        text-align: center;
+    }
+    #footer-copyright {
+        float: none;
+        width: auto;
+        padding-top: 16px;
+        text-align: center;
+    }
+    #footer-copyright .sep{
+        display: block;
+        font-size: 0;
+        padding-top: 5px;
+    }
+}
+
+
+@media (max-width: 767px) {
+    #header{
+        height: 70px;
+    }
+    #header-logo {
+        padding-top: 20px;
+        width: 190px;
+    }
+    #main-nav{
+        display: none;
+    }
+    #mobile-nav-icon{
+        display: block;
+    }
+    #main .home-banner h1.vc_custom_heading, #main .home-banner h2.vc_custom_heading{
+        font-size: 40px;
+        padding-left: 20px;
+    }
+    #main .home-banner h1.vc_custom_heading:before, #main .home-banner h2.vc_custom_heading:before{
+        top: 7px;
+        width: 9px;
+    }
+    #main .home-banner .vc_btn3 {
+        font-size: 17px;
+        max-width: 297px;
+    }
+    #main h1.vc_custom_heading{
+        font-size: 60px;
+    }
+    #main h2.vc_custom_heading{
+        font-size: 50px;
+    }
+    #main h3.vc_custom_heading{
+        font-size: 40px;
+    }
+    #main h4.vc_custom_heading{
+        font-size: 30px;
+    }
+    #main h5.vc_custom_heading{
+        font-size: 22px;
+    }
+    #main h6.vc_custom_heading{
+        font-size: 18px;
+    }
+    #main .home-partners-title h2{
+    	font-size: 40px;
+    }
+    #main .home-howitworks .vc_col-sm-3 > .vc_column-inner > .wpb_wrapper{
+        width: 300px;
+        margin: auto;
+    }
+    #main .home-partners .logos {
+        margin-top: 0;
+        padding-top: 20px;
+    }
+    #main .home-partners,
+    #main .home-features,
+    #main .home-brands{
+        font-size: 17px;
+    }
+    #main .carousel-logos .wpb_image_grid_ul {
+        padding-left: 35px;
+        padding-right: 35px;
+    }
+    #main .carousel-logos .slick-prev, #main .carousel-logos .slick-next {
+        width: 30px;
+        height: 30px;
+        top: calc((100% - 30px)/2);
+    }
+    body .vc_images_carousel .vc_carousel-control .icon-next{
+    	margin-right: 5px;
+    }
+    body .vc_images_carousel .vc_carousel-control .icon-next, body .vc_images_carousel .vc_carousel-control .icon-prev{
+    	width: 40px;
+        height: 40px;
+    }
+    #main .home-carousel .slick-slide .vc_col-sm-12 > .vc_column-inner > .wpb_wrapper h3 {
+        font-size: 22px;
+    }
+    #main .home-carousel .slick-slide .vc_col-sm-12 > .vc_column-inner > .wpb_wrapper p {
+        font-size: 12px;
+        line-height: 1.4em;
+    }
+}
+
+
+@media (max-width: 640px) {
+    #main .home-carousel .slick-slide .vc_col-sm-12 > .vc_column-inner > .wpb_wrapper{
+    	max-width: 75%;
+    }
+}
+
+
+@media (max-width: 480px) {
+    #topbanner-inner{
+        padding: 60px 0;
+    }
+    #topbanner-inner h1,
+    #topbanner-inner h2{
+        font-size: 30px;
+    }
+    #main h1.vc_custom_heading{
+        font-size: 50px;
+    }
+    #main h2.vc_custom_heading{
+        font-size: 40px;
+    }
+    #main h3.vc_custom_heading{
+        font-size: 30px;
+    }
+    #main h4.vc_custom_heading{
+        font-size: 25px;
+    }
+    #main h5.vc_custom_heading{
+        font-size: 20px;
+    }
+    #main h6.vc_custom_heading{
+        font-size: 15px;
+    }
+    #main .home-partners-title h2{
+    	font-size: 35px;
+    }
+    #main .home-banner h1.vc_custom_heading, #main .home-banner h2.vc_custom_heading {
+        font-size: 30px;
+        padding-left: 20px;
+    }
+    #main .home-banner .vc_btn3 {
+        font-size: 13px;
+        max-width: 236px;
+        padding: 13px 18px;
+    }
+}

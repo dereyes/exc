@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Bulo';
+    src: url('Bulo-Bold.eot');
+    src: local('☞Bulo-Bold'), local('Bulo-Bold'),
+        url('Bulo-Bold-.eot#iefix') format('embedded-opentype'),
+        url('Bulo-Bold.woff2') format('woff2'),
+        url('Bulo-Bold.woff') format('woff'),
+        url('Bulo-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bulo';
+    src: url('Bulo-BoldItalic.eot');
+    src: local('☞Bulo-BoldItalic'), local('Bulo-BoldItalic'),
+        url('Bulo-BoldItalic-.eot#iefix') format('embedded-opentype'),
+        url('Bulo-BoldItalic.woff2') format('woff2'),
+        url('Bulo-BoldItalic.woff') format('woff'),
+        url('Bulo-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
